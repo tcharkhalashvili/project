@@ -8,6 +8,10 @@ body{
   background-color: #f8f8fb;
   font-family:Poppins,sans-serif
 }
+
+.asd{
+	
+}
 .header {
     position: fixed;
     top: 0;
@@ -60,9 +64,10 @@ body{
     width: 250px;
     height: 100%;
     background-color: #2a3042;
-    top: 70px;
+    top: 0;
     overflow: scroll;
     overflow-x: hidden;
+    padding-top: 70px;
 }
 
 
